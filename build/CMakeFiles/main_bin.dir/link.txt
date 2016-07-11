@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -Wno-deprecated-declarations -g   CMakeFiles/main_bin.dir/main.cpp.o  -o main_bin -rdynamic libigl/glfw/src/libglfw3.a -lX11 -lpthread -lXrandr -lXinerama -lXi -lXxf86vm -lrt -lm -lXcursor -lGL libigl/glew/libglew.a 

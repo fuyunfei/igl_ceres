@@ -1,0 +1,5 @@
+/home/sun/Cloud/Git/igl_ceres/build/libigl/glfw/CMakeFiles/uninstall.dir
+/home/sun/Cloud/Git/igl_ceres/build/CMakeFiles/main_bin.dir
+/home/sun/Cloud/Git/igl_ceres/build/libigl/glfw/src/CMakeFiles/glfw_objects.dir
+/home/sun/Cloud/Git/igl_ceres/build/libigl/glew/CMakeFiles/glew.dir
+/home/sun/Cloud/Git/igl_ceres/build/libigl/glfw/src/CMakeFiles/glfw.dir
